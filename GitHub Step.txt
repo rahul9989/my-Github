@@ -1,0 +1,16 @@
+1. find the directory 
+   Ex- cd .. Documents/GitHub/FileName
+
+2. git init 
+
+3. git add .
+
+4. git commit -m 'my File'
+
+5. git remote add origin "URL"
+
+6. git push -u origin master 
+
+7. On Second time to upload file use only git push origin master
+
+8. git status (for status check)
